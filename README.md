@@ -1,6 +1,6 @@
 # Hi there, I'm Rutvik Ghori 👋  
 
-I'm a **Full Stack Developer** passionate about building scalable, user-friendly applications. With **3+ years of experience**, I specialize in **React.js, Node.js, TypeScript, PostgreSQL, and MongoDB**. I thrive on solving complex problems and delivering high-quality, impactful solutions.  
+I'm a **Full Stack Developer** passionate about building scalable, user-friendly applications. I specialize in **React.js, Node.js, TypeScript, PostgreSQL, and MongoDB**. I thrive on solving complex problems and delivering high-quality, impactful solutions.  
 
 ## 🚀 About Me  
 - 🔭 **Current Focus & Learning:**  
